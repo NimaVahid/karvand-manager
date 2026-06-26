@@ -1,2 +1,2 @@
-# karvand-manager
-AI_bootcamp_145
+# Karvand Manager
+This repository is for the Karvand Python JSON project.
